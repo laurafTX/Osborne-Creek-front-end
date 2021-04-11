@@ -1,5 +1,5 @@
-# hello-world
-The tutorial from GitHub
+# Front End projects 
+Client side projects from OCT
 
 What's up, everybody?
 
